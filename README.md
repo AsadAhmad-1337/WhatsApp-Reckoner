@@ -6,3 +6,40 @@ This tool is a poc based on this article:
 https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers
 
 ![Image Alt](https://github.com/AsadAhmad-1337/WhatsApp-Reckoner/blob/4f8c2fb9ac7db7cf14ade31840803540d3ea8d76/whatsapp-reckoner.png)
+
+# Features
+
+   # Number Generation
+
+   Random area code (300–349)
+
+   Random digits for uniqueness
+
+
+   # WhatsApp Data Checking
+
+
+   Extracts profile picture URLs
+
+   Extracts the user’s WhatsApp display name
+   
+   Extracts the user’s WhatsApp number 
+   
+
+   # Image Handling
+
+   Downloads profile images
+
+   Checks if image already exists (existing_images) to avoid duplicates
+
+   Saves images to IMAGES_DIR
+
+   # Persistent Progress
+
+   Progress is saved in progress.json
+
+   Keeps track of found_profiles
+
+   no_img.json stores numbers that have no images
+
+   Ensures that when the script is restarted, progress resumes from the last saved state  
