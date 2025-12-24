@@ -9,14 +9,14 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
 
 # Features
 
-   # Number Generation
+   # </> Number Generation
 
    Random area code (300–349)
 
    Random digits for uniqueness
 
 
-   # WhatsApp Data Checking
+   # ⚠︎ WhatsApp Data Checking
 
 
    Extracts profile picture URLs
@@ -26,7 +26,7 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
    Extracts the user’s WhatsApp number 
    
 
-   # Image Handling
+   # 👥 Image Handling
 
    Downloads profile images
 
@@ -34,7 +34,7 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
 
    Saves images to IMAGES_DIR
 
-   # Persistent Progress
+   # ❯❯❯❯ Persistent Progress
 
    Progress is saved in progress.json
 
