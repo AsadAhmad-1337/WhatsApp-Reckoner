@@ -9,7 +9,7 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
 
 # 💻 System Requirements
 
-   # OS:   
+   # OS   
    
    Windows 7/10/11
 
