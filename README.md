@@ -1,11 +1,23 @@
 # WhatsApp-Reckoner-v1.1
-A WhatsApp number scanner that generates pakistani mobile numbers randomly and then checks if the generated numbers are registered on WhatsApp if found then it fetches corresponding profile pictures, profile names along with number.
+A WhatsApp number scanner that generates pakistani mobile numbers randomly upto 1 million and then checks if the generated numbers are registered on WhatsApp if found then it fetches corresponding profile pictures, profile names along with number.
 
 This tool is a poc based on this article: 
 
 https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers
 
 ![Image Alt](https://github.com/AsadAhmad-1337/WhatsApp-Reckoner/blob/4f8c2fb9ac7db7cf14ade31840803540d3ea8d76/whatsapp-reckoner.png)
+
+# 💻 System Requirements
+
+   # Operating Systems
+
+   Windows 7/10/11
+
+   # Memory & Storage
+
+   RAM: Minimum 2GB (8GB recommended)
+
+   Storage: Approx 100GB free space for 1 million data dump
 
 # Features
 
@@ -45,7 +57,7 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
    ➔ Ensures that when the script is restarted, progress resumes from the last saved state  
 
 
-   # 👩🏻‍💻 GUI 
+   # 👩🏻‍💻🎨 GUI 
 
    ➔ Found Profiles
 
@@ -54,3 +66,6 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
    ➔ Progress bar with percentage.
 
    ➔ Verbosity window: Shows logs for each number scanned.
+
+
+   
