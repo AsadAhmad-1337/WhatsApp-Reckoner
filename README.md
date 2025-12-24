@@ -19,7 +19,7 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
    # ⚠︎ WhatsApp Data Checking
 
 
-   ➔ Extracts profile picture URLs
+   ➔ Extracts profile pictures 
 
    ➔ Extracts the user’s WhatsApp display name
    
