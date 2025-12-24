@@ -11,35 +11,35 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
 
    # </> Number Generation
 
-   Random area code (300–349)
+   ➔ Random area code (300–349)
 
-   Random digits for uniqueness
+   ➔ Random digits for uniqueness
 
 
    # ⚠︎ WhatsApp Data Checking
 
 
-   Extracts profile picture URLs
+   ➔ Extracts profile picture URLs
 
-   Extracts the user’s WhatsApp display name
+   ➔ Extracts the user’s WhatsApp display name
    
-   Extracts the user’s WhatsApp number 
+   ➔ Extracts the user’s WhatsApp number 
    
 
    # 👥 Image Handling
 
-   Downloads profile images
+   ➔ Downloads profile images
 
-   Checks if image already exists (existing_images) to avoid duplicates
+   ➔ Checks if image already exists (existing_images) to avoid duplicates
 
-   Saves images to IMAGES_DIR
+   ➔ Saves images to IMAGES_DIR
 
    # ❯❯❯❯ Persistent Progress
 
-   Progress is saved in progress.json
+   ➔ Progress is saved in progress.json
 
-   Keeps track of found_profiles
+   ➔ Keeps track of found_profiles
 
-   no_img.json stores numbers that have no images
+   ➔ no_img.json stores numbers that have no images
 
-   Ensures that when the script is restarted, progress resumes from the last saved state  
+   ➔ Ensures that when the script is restarted, progress resumes from the last saved state  
