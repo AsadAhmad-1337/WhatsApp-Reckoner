@@ -43,3 +43,14 @@ https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-pho
    ➔ no_img.json stores numbers that have no images
 
    ➔ Ensures that when the script is restarted, progress resumes from the last saved state  
+
+
+   # 👩🏻‍💻 GUI 
+
+   ➔ Found Profiles
+
+   ➔ Downloaded Images
+
+   ➔ Progress bar with percentage.
+
+   ➔ Verbosity window: Shows logs for each number scanned.
