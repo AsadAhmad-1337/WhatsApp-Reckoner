@@ -1,4 +1,4 @@
-# WhatsApp-Reckoner-v1.1
+# ✆ WhatsApp-Reckoner-v1.1
 A WhatsApp number scanner that generates pakistani mobile numbers randomly upto 1 million and then checks if the generated numbers are registered on WhatsApp if found then it fetches corresponding profile pictures, profile names along with number.
 
 This tool is a poc based on this article: 
